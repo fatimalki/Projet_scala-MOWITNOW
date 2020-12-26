@@ -1,5 +1,5 @@
-## La société MowItNow a décidé de développer une tondeuse à gazon automatique,
-destinée aux surfaces rectangulaires.
+## La société MowItNow a décidé de développer une tondeuse à gazon automatique,destinée aux surfaces rectangulaires.
+
 La tondeuse peut être programmée pour parcourir l'intégralité de la surface.
 
 La position de la tondeuse est représentée par une combinaison de coordonnées (x,y) et
