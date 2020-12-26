@@ -1,3 +1,8 @@
+/*
+@author : Fatima Ezzahrae MALKI & Nisrine MOUMMOU
+@Year : 2020/2021
+@School : Sorbonne MOSEF */
+
 package Project
 
 object Main extends App {
