@@ -1,6 +1,6 @@
 package Project
 
-class Tondeuse(pelouse: Pelouse, var x: Int, private var y: Int, private var orientation: Char) {
+class Tondeuse(pelouse: Pelouse, var x: Int, var y: Int, var orientation: Char) {
 
   /* Récupérer la position de la tondeuse */
   def coordX: Int = x
